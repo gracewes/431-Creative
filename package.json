@@ -45,7 +45,7 @@
     "jss": "^10.0.0-alpha.11",
     "mongodb": "^3.1.13",
     "node-fetch": "^2.3.0",
-    "parcel-bundler": "^1.11.0",
+    "parcel-bundler": "^1.12.4",
     "passport": "^0.4.0",
     "passport-google-oauth20": "^1.0.0",
     "passport-mock-googleoauth2": "^1.0.1",
